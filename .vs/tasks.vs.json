@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Loader",
+      "appliesTo": "src/components/Loader/",
+      "type": "launch"
+    }
+  ]
+}
