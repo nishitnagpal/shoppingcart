@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\github",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\Cart",
     "\\src\\components\\CartWidget",
     "\\src\\components\\CurrencyFormatter",
     "\\src\\components\\Footer",
@@ -11,6 +11,6 @@
     "\\src\\components\\Loader",
     "\\src\\components\\TotalPrice"
   ],
-  "SelectedNode": "\\package.json",
+  "SelectedNode": "\\github\\workflows",
   "PreviewInSolutionExplorer": false
 }
