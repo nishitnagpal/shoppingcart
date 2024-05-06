@@ -2,13 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\.github",
-    "\\.github\\workflows",
-    "\\src\\components\\CartWidget",
-    "\\src\\components\\CurrencyFormatter",
-    "\\src\\components\\Footer",
-    "\\src\\components\\Header",
-    "\\src\\components\\Loader",
-    "\\src\\components\\TotalPrice"
+    "\\.github\\workflows"
   ],
   "SelectedNode": "\\.github\\workflows\\deploy.yml",
   "PreviewInSolutionExplorer": false

@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
               "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\.github\\workflows\\deploy.yml",
               "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AQIAADIAAAAAAAAAAADwv0gAAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-05-06T01:32:32.926Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "vite.config.ts",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-06T01:24:49.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-06T01:24:49.102Z"
             },
             {
               "$type": "Document",
@@ -144,8 +143,7 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-18T04:10:54.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T04:10:54.949Z"
             }
           ]
         }
