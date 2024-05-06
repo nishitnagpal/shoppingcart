@@ -1,26 +1,4 @@
-# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
-# For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
-
-name: shoppingcart
-
-on:  
-  push:
-    branches: [ "master" ]
-  pull_request:
-    branches: [ "master" ]
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    
-    strategy:
-      matrix:
-        node-version: [19.x] 
-    
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:# Simple workflow for deploying static content to GitHub Pages
+# Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
@@ -71,7 +49,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-          node-version: 19
-                 cache:'yarn'
-      - run: yarn install
-      - run: yarn test
