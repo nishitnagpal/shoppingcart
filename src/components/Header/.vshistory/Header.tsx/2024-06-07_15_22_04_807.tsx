@@ -46,7 +46,7 @@ export const Header: FunctionComponent = () => {
 
     return (
         <header className={classes.header}>
-            <div>
+            {/*<div>
                 <Link to="/">
                     <img src={logo} className={classes.logo} alt="Shopping Cart Application" />
                 </Link>
@@ -54,7 +54,7 @@ export const Header: FunctionComponent = () => {
             <div>
                 <CartWidget productsCount={productsCount} />
             </div>
-           
+           */}
         </header>
         
     )

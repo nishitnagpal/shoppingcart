@@ -11,13 +11,8 @@ function App() {
     return (
         <BrowserRouter>
             <Header />
-            
             <main>
                 <Routes>
-                    <Route
-                        path="/shoppingcart/"
-                        element={<Products />}
-                    />
                     <Route
                         path="/"
                         element={<Products />}

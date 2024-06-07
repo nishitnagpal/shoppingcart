@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Cart\\Cart.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Cart\\Cart.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\TotalPrice\\TotalPrice.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\TotalPrice\\TotalPrice.test.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header\\Header.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header\\Header.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Products\\Products.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Products\\Products.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Footer\\Footer.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer\\Footer.module.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,100 +42,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "deploy.yml",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\.github\\workflows\\deploy.yml",
-              "RelativeDocumentMoniker": ".github\\workflows\\deploy.yml",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\.github\\workflows\\deploy.yml",
-              "RelativeToolTip": ".github\\workflows\\deploy.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-05-06T01:32:32.926Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "vite.config.ts",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\vite.config.ts",
-              "RelativeDocumentMoniker": "vite.config.ts",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\vite.config.ts",
-              "RelativeToolTip": "vite.config.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-05-06T01:24:49.102Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Cart.test.tsx",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Cart\\Cart.test.tsx",
-              "RelativeDocumentMoniker": "src\\components\\Cart\\Cart.test.tsx",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Cart\\Cart.test.tsx",
-              "RelativeToolTip": "src\\components\\Cart\\Cart.test.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-18T11:19:57.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TotalPrice.test.tsx",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\TotalPrice\\TotalPrice.test.tsx",
-              "RelativeDocumentMoniker": "src\\components\\TotalPrice\\TotalPrice.test.tsx",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\TotalPrice\\TotalPrice.test.tsx",
-              "RelativeToolTip": "src\\components\\TotalPrice\\TotalPrice.test.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-18T11:16:58.258Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Header.tsx",
               "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.tsx",
               "RelativeDocumentMoniker": "src\\components\\Header\\Header.tsx",
               "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.tsx",
               "RelativeToolTip": "src\\components\\Header\\Header.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-18T10:44:06.139Z"
+              "WhenOpened": "2024-06-07T09:51:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-07T09:37:56.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CurrencyFormatter.test.tsx",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx",
-              "RelativeDocumentMoniker": "src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx",
-              "RelativeToolTip": "src\\components\\CurrencyFormatter\\CurrencyFormatter.test.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "Products.tsx",
+              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Products\\Products.tsx",
+              "RelativeDocumentMoniker": "src\\components\\Products\\Products.tsx",
+              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Products\\Products.tsx",
+              "RelativeToolTip": "src\\components\\Products\\Products.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-18T10:36:17.446Z"
+              "WhenOpened": "2024-06-07T09:37:53.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CurrencyFormatter.tsx",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx",
-              "RelativeDocumentMoniker": "src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx",
-              "RelativeToolTip": "src\\components\\CurrencyFormatter\\CurrencyFormatter.tsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Title": "Footer.module.scss",
+              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Footer\\Footer.module.scss",
+              "RelativeDocumentMoniker": "src\\components\\Footer\\Footer.module.scss",
+              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Footer\\Footer.module.scss",
+              "RelativeToolTip": "src\\components\\Footer\\Footer.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-06-07T09:37:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-03-18T10:19:21.051Z"
+              "WhenOpened": "2024-06-07T07:57:29.429Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "package.json",
-              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\package.json",
-              "RelativeDocumentMoniker": "package.json",
-              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\package.json",
-              "RelativeToolTip": "package.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-18T04:10:54.949Z"
+              "Title": "Header.module.scss",
+              "DocumentMoniker": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.module.scss",
+              "RelativeDocumentMoniker": "src\\components\\Header\\Header.module.scss",
+              "ToolTip": "C:\\Users\\Nishit\\Documents\\GitHub\\shopping\\src\\components\\Header\\Header.module.scss",
+              "RelativeToolTip": "src\\components\\Header\\Header.module.scss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-06-06T19:32:37.062Z",
+              "EditorCaption": ""
             }
           ]
         }

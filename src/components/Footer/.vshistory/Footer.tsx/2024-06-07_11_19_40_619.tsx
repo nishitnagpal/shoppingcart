@@ -16,7 +16,7 @@ export const Footer: FunctionComponent = () => {
                         rel="noopener noreferrer"
                         data-cy="githubLink"
                     >
-                        Github
+                        github
                     </a>
                 </li>
                 <li className={classes.footerCopyrights}>

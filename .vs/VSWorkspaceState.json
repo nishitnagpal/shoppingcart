@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Footer",
+    "\\src\\components\\Header",
+    "\\src\\components\\Products",
+    "\\src\\components\\TotalPrice"
   ],
-  "SelectedNode": "\\.github\\workflows\\deploy.yml",
+  "SelectedNode": "\\src\\components\\Header\\Header.tsx",
   "PreviewInSolutionExplorer": false
 }

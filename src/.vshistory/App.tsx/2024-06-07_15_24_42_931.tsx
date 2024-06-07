@@ -15,13 +15,10 @@ function App() {
             <main>
                 <Routes>
                     <Route
-                        path="/shoppingcart/"
+                        path="/shoppingcart"
                         element={<Products />}
                     />
-                    <Route
-                        path="/"
-                        element={<Products />}
-                    />
+                    
                     <Route
                         path="/cart"
                         element={<Cart />}

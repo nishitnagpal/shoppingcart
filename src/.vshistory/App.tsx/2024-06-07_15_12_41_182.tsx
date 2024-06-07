@@ -14,14 +14,11 @@ function App() {
             
             <main>
                 <Routes>
-                    <Route
-                        path="/shoppingcart/"
-                        element={<Products />}
-                    />
-                    <Route
+                    {/*<Route
                         path="/"
                         element={<Products />}
-                    />
+                    />*/}
+                    <Products />
                     <Route
                         path="/cart"
                         element={<Cart />}

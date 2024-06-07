@@ -47,6 +47,11 @@ export const Header: FunctionComponent = () => {
     return (
         <header className={classes.header}>
             <div>
+                <Link to="/" className={classes.logoLink}>
+                    Products
+                </Link>
+            </div>
+            <div>
                 <Link to="/">
                     <img src={logo} className={classes.logo} alt="Shopping Cart Application" />
                 </Link>

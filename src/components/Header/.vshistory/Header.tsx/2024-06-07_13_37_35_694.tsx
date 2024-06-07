@@ -48,14 +48,13 @@ export const Header: FunctionComponent = () => {
         <header className={classes.header}>
             <div>
                 <Link to="/">
-                    <img src={logo} className={classes.logo} alt="Shopping Cart Application" />
+                        Products
+                    {/* <img src={logo} className={classes.logo} alt="Shopping Cart Application" />*/}
                 </Link>
             </div>
             <div>
                 <CartWidget productsCount={productsCount} />
             </div>
-           
         </header>
-        
     )
 }

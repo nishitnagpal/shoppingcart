@@ -11,17 +11,14 @@ function App() {
     return (
         <BrowserRouter>
             <Header />
-            
+            <Products />
             <main>
                 <Routes>
-                    <Route
-                        path="/shoppingcart/"
-                        element={<Products />}
-                    />
-                    <Route
+                    {/*<Route
                         path="/"
                         element={<Products />}
-                    />
+                    />*/}
+                    
                     <Route
                         path="/cart"
                         element={<Cart />}

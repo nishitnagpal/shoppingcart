@@ -11,12 +11,12 @@ export const Footer: FunctionComponent = () => {
             <ul>
                 <li className={classes.footerLinks}>
                     <a
-                        href="https://github.com/nishitnagpal/shoppingcart"
+                        href="https://github.com/nishitnagpal"
                         target="_blank"
                         rel="noopener noreferrer"
                         data-cy="githubLink"
                     >
-                        Github
+                        github
                     </a>
                 </li>
                 <li className={classes.footerCopyrights}>

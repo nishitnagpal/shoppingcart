@@ -54,7 +54,9 @@ export const Header: FunctionComponent = () => {
             <div>
                 <CartWidget productsCount={productsCount} />
             </div>
-           
+            <div>
+                <Products />
+            </div>
         </header>
         
     )

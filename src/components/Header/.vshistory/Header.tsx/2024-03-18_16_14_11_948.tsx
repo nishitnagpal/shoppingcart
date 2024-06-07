@@ -34,10 +34,10 @@ export const Header: FunctionComponent = () => {
             productsCountElement.style.transition = "font-size 200ms ease-in"
             productsCountElement.style.fontSize = "1.5em"
         } else {
-            headerElement.style.height = "80px"
-            logoElement.style.height = "4rem"
-            cartWidgetElement.style.height = "2rem"
-            productsCountElement.style.fontSize = "1.5em"
+            headerElement.style.height = "150px"
+            logoElement.style.height = "6rem"
+            cartWidgetElement.style.height = "3rem"
+            productsCountElement.style.fontSize = "2em"
         }
     }
     const [cart,] = useLocalStorageState<CartProps>('cart', {})
@@ -54,8 +54,6 @@ export const Header: FunctionComponent = () => {
             <div>
                 <CartWidget productsCount={productsCount} />
             </div>
-           
         </header>
-        
     )
 }
