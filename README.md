@@ -7,7 +7,7 @@ The footer component displays social media links and copyright info, as well as 
 
 The Shopping Cart consists of two pages: the product list page and the cart page
 
-1. 1. The product list page is responsive and lists all available products, displaying each product's thumbnail image, title, price and a button for adding it to the cart
+1. The product list page is responsive and lists all available products, displaying each product's thumbnail image, title, price and a button for adding it to the cart
 2. The cart page lists all products that are added to the cart, displaying each product's thumbnail image, title and an option for updating the desired quantity
 
 Possible Improvements
